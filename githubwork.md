@@ -50,7 +50,7 @@ Click "Create pull request" button.
 
 ---
 
-5. On next page ensure, that you have correctly set branches (devlop in project repository, newly created in yours)
+5. On next page ensure, that you have correctly set branches (devlop in project repository, newly created in yours).
 Make sure that you selected "Create draft pull request" and click on it.
 
 ![create draft pull request](githubworkimages/img006_draft_pull_request.png)
