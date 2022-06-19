@@ -27,7 +27,7 @@ Enter a name of new branch and select "develop" as a branch source.
 
 ---
 
-2. In local project directory execute commands:
+2. In local project directory execute commands: (--allow-empty allows us to execute commit without any changes in the project)
 
 ```shell
 git commit -m "getting started" --allow-empty
@@ -49,7 +49,7 @@ Head repository should point to your repository and field compare - new created 
 
 Make sure that you select "Create draft pull request" and click on it.
 
-
+Now you can start working with the task. 
 
 ## Completing work with the task.
 Po zakończeniu pracy nad zadaniem sprawdzamy, czy branch z naszym zadaniem można połączyć z branchem develop. W tym celu należy:
