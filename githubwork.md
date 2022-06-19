@@ -1,6 +1,6 @@
 ## How we work on GitHub
 
-1. Create new fork from main repository
+1. Go to [our repository](https://github.com/bycza-zagroda/), select backend or frontend and create new fork from main repository
 
 ![create fork](githubworkimages/img001_create_fork.png)
 
