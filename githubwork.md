@@ -1,4 +1,4 @@
- How we work on GitHub
+# How we work with GitHub
 
 ## Starting work with the task.
 
