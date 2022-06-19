@@ -47,7 +47,7 @@ Head repository should point to your repository and field compare - new created 
 
 ![create draft pull request](githubworkimages/img005_draft_pull_request.png)
 
-Make sure that you select "Create draft pull request" and click on it.
+Make sure that you selected "Create draft pull request" and click on it.
 
 Now you can start working with the task. 
 
