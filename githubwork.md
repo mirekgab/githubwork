@@ -1,4 +1,4 @@
-# How we work on GitHub
+ How we work on GitHub
 
 ## Starting work with the task.
 
@@ -50,8 +50,8 @@ Click "Create pull request" button.
 
 ---
 
-5. On next page ensure, that you have correctly set branches (devlop in project repository, newly created in yours).
-Make sure that you selected "Create draft pull request" and click on it.
+5. On the next page make sure that you have correctly set branches (devlop in project repository, newly created in yours),
+that you selected "Create draft pull request" and click on button "Draft pull request".
 
 ![create draft pull request](githubworkimages/img006_draft_pull_request.png)
 
@@ -59,13 +59,14 @@ Make sure that you selected "Create draft pull request" and click on it.
 
 Now you can start working with the task. 
 
+## Code review
+
+Code review can be started from opened draft pull request. You can open it in several ways, below described one of it.
+Go to project page and open "Pull requests" page. Find yours on the list and open it. Next, click the button "Ready for review". 
+
+![ready for review](githubworkimages/img007_ready_for_review.png)
+
 ## Completing work with the task.
-Po zakończeniu pracy nad zadaniem sprawdzamy, czy branch z naszym zadaniem można połączyć z branchem develop. W tym celu należy:
-1. logujemy się do githuba i otwieramy repozytorium
-2. sprawdzamy, czy branch develop jest aktualny. Jeżeli nie, to klikamy przycisk Fetch upstream → Fetch and merge
-3. zmieniamy branch na nasz z zadaniem
-4. klikamy przycisk Contribute → Open pull request
-5. zmieniamy branch repozytorium głównego na develop, z prawej mamy nasze repozytorium i branch zadania.
-6. Sprawdzamy, czy mamy informację „Able to merge”, jeżeli tak, to klikamy View pull request. Otworzy się pull request w repozytorium głównym
-7. Klikamy Ready for review
-8. 
+
+After completing work with the task the leaders check that your changes can be merged to upstream. 
+If everything is ok, they merged your pull request do devlop branch.
