@@ -1,6 +1,8 @@
-## How we work on GitHub
+# How we work on GitHub
 
-1. Go to [our repository](https://github.com/bycza-zagroda/), select backend or frontend and create new fork from main repository
+## Starting work with the task.
+
+1. Go to [our repository](https://github.com/bycza-zagroda/), select backend or frontend and create new fork.
 
 ![create fork](githubworkimages/img001_create_fork.png)
 
@@ -49,7 +51,7 @@ Make sure that you select "Create draft pull request" and click on it.
 
 
 
-## Completing work on the task.
+## Completing work with the task.
 Po zakończeniu pracy nad zadaniem sprawdzamy, czy branch z naszym zadaniem można połączyć z branchem develop. W tym celu należy:
 1. logujemy się do githuba i otwieramy repozytorium
 2. sprawdzamy, czy branch develop jest aktualny. Jeżeli nie, to klikamy przycisk Fetch upstream → Fetch and merge
